@@ -16,9 +16,9 @@ body {
   left: 50%;
   top: 50%;
   text-align: center;
-  position: absolute;
-  background-color: rgba(35, 57, 98, 0.9);
-  box-shadow: 0 0 3px #ccc;
+  position: fixed;
+  background-color: rgba(53, 84, 141, 0.9);
+  box-shadow: 0 0 5px #ccc;
   transform: translate(-50%, -50%);
   -webkit-transform: translate(-50%, -50%);
   -moz-transform: translate(-50%, -50%);
